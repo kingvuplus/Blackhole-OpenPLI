@@ -5,7 +5,7 @@ install_PYTHON = \
 	Poll.py RemainingToText.py StringList.py ServiceName.py FrontendInfo.py ServiceInfo.py \
 	ConditionalShowHide.py ServicePosition.py ValueRange.py RdsInfo.py Streaming.py \
 	StaticMultiList.py ServiceTime.py MovieInfo.py MenuEntryCompare.py StringListSelection.py \
-	TextCase.py ConditionalShowHide.py \
+	ConditionalShowHide.py \
 	ValueBitTest.py TunerInfo.py ConfigEntryTest.py ClientsStreaming.py TemplatedMultiContent.py ProgressToText.py \
 	Combine.py SensorToText.py ValueToPixmap.py genre.py TransponderInfo.py \
 	RotorPosition.py BhAnalogic.py HbbtvApplicationInfo.py
