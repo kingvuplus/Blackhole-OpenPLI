@@ -22,5 +22,4 @@ install_PYTHON = \
 	Keyboard.py Sensors.py FanControl.py HdmiCec.py \
 	language_cache.py \
 	Gauge.py \
-	DreamInfoHandler.py \
-	opkg.py
+	DreamInfoHandler.py
