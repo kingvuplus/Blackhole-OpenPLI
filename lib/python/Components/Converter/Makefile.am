@@ -8,4 +8,4 @@ install_PYTHON = \
 	ConditionalShowHide.py \
 	ValueBitTest.py TunerInfo.py ConfigEntryTest.py TemplatedMultiContent.py ProgressToText.py \
 	Combine.py SensorToText.py ValueToPixmap.py \
-	RotorPosition.py BhAnalogic.py HbbtvApplicationInfo.py
+	BhAnalogic.py HbbtvApplicationInfo.py
