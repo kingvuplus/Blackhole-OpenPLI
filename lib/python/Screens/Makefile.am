@@ -15,4 +15,4 @@ install_PYTHON = \
 	SleepTimerEdit.py Ipkg.py RdsDisplay.py Globals.py \
 	SessionGlobals.py LocationBox.py WizardLanguage.py TaskView.py Rc.py VirtualKeyBoard.py \
 	TextBox.py FactoryReset.py RecordPaths.py UnhandledKey.py ServiceStopScreen.py \
-	InputDeviceSetup.py SoftwareUpdate.py InstallWizard.py ScreenSaver.py
+	InputDeviceSetup.py
