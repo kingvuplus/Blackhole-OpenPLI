@@ -7,5 +7,5 @@ install_PYTHON = \
 	StaticMultiList.py ServiceTime.py MovieInfo.py MenuEntryCompare.py StringListSelection.py \
 	ConditionalShowHide.py \
 	ValueBitTest.py TunerInfo.py ConfigEntryTest.py TemplatedMultiContent.py ProgressToText.py \
-	Combine.py SensorToText.py ValueToPixmap.py TransponderInfo.py \
+	Combine.py SensorToText.py ValueToPixmap.py \
 	RotorPosition.py BhAnalogic.py HbbtvApplicationInfo.py
